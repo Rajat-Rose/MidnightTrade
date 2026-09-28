@@ -1,0 +1,10 @@
+name: MidnightTrade
+version: 1.0
+main: com.midnightsmp.midnighttrade.MidnightTrade
+api-version: 1.20
+commands:
+  trade:
+    description: Send or accept a trade request within 20 blocks
+    aliases: [tradeaccept]
+  tradedeny:
+    description: Deny a pending trade request
