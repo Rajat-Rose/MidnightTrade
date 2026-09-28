@@ -1,0 +1,3 @@
+# MidnightTrade Config
+max-trade-distance: 20
+request-timeout-seconds: 30
